@@ -20,7 +20,7 @@
 参考网址：https://github.com/SoonSYJ/fawasr 主要参考这个！https://github.com/alibaba-damo-academy/FunASR 和 https://github.com/k2-fsa/sherpa
 
 # .so和模型下载地址：
-链接: https://pan.baidu.com/s/1RiIGZGChdRKbJ18-jMqpgA 提取码: eupq  
+链接: https://pan.baidu.com/s/1dHTok60j57e-2vFiCvB20g?pwd=e4uw 提取码: e4uw
 
 # 操作流程
 1： 运行build-android.sh生成对应的.so，主要需求就是先下载安卓版本的onnxruntime.so文件和FFMPEG.so文件(这里需要你自己去生成的，可以自己编辑版本（arm-v8或者arm-v7）)
